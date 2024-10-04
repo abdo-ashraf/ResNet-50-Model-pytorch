@@ -1,4 +1,4 @@
-# ResNet-50-reImplementing
+# ResNet paper
 ```bibtex
 @inproceedings{he2016deep,
   title={Deep residual learning for image recognition},
